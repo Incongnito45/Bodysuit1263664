@@ -28,4 +28,4 @@ um verdadeiro mestre é um eterno aprendiz
 - [em breve](https://youtu.be/w-QhTeVRTdc)
 
 ## Visitantes;
-<p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Rony-S/count.svg" /></p>
+<p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Alex-S/count.svg" /></p>
