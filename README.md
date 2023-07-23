@@ -1,5 +1,5 @@
 
-### Hola soy Alex este es mi página web laboratorio y modificasiones 👋
+### ¡Hola soy Alex este es mi página web laboratorio y modificasiones! 👋
 
 [![blog](https://img.shields.io/website?label=silverstars.shop&style=for-the-badge&url=https://silverstars.shop)](https://silverstars.shop)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Spectrum_bots)
