@@ -2,7 +2,7 @@
 ### ¡Hola soy Alex este es mi página web laboratorio y modificasiones! 👋
 
 [![blog](https://img.shields.io/website?label=informatic.termux&style=for-the-badge&url=https://silverstars.shop)](https://lpericena.blogspot.com/?m=1)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]( )
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/E2mZUi2q3-U)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://chat.whatsapp.com/IdfovDpIamQFthOZwomFQf)
