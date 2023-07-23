@@ -1,7 +1,7 @@
 
 ### ¡Hola soy Alex este es mi página web laboratorio y modificasiones! 👋
 
-[![blog](https://img.shields.io/website?label=silverstars.shop&style=for-the-badge&url=https://silverstars.shop)](https://silverstars.shop)
+[![blog](https://img.shields.io/website?label=silverstars.shop&style=for-the-badge&url=https://silverstars.shop)](https://lpericena.blogspot.com/?m=1)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]( )
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![Instagram](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)]()
