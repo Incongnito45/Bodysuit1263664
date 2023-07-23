@@ -7,7 +7,7 @@
 [![Instagram](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@rony.on)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](wa.me/573245104054)
 
-![Alex-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Alex-S&show_icons=true&theme=dracula)
+![Alex-S GitHub stats](https://github-readme-stats.vercel.app/api?username=Body-S&show_icons=true&theme=dracula)
 
 ### Tecnologias que eu uso no meu dia
 
