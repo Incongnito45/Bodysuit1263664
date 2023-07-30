@@ -29,3 +29,4 @@ um verdadeiro mestre é um eterno aprendiz
 
 ## Visitantes;
 <p align="center">  <img alingn="center" src="https://profile-counter.glitch.me/Alex-S/count.svg" /></p>
+https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg
